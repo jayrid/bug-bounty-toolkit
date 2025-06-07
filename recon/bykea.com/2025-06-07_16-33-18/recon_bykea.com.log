@@ -1,0 +1,48 @@
+[*] Starting recon for: bykea.com
+[*] Output will be saved in: /home/jayrid/bugbounty/recon/bykea.com/2025-06-07_16-33-18
+[*] Timestamp: 2025-06-07_16-33-18
+-----------------------------------------
+[*] Running Subfinder...
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[34mINF[0m] Loading provider config from the default location: /home/jayrid/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Enumerating subdomains for bykea.com
+www.ourweb.bykea.com
+www.inv.bykea.com
+cpcalendars.bykea.com
+newbykea.bykea.com
+help.bykea.com
+inv.bykea.com
+customer.bykea.com
+webnew.bykea.com
+www.partner.bykea.com
+www.help.bykea.com
+cpanel.bykea.com
+mail.bykea.com
+webmail.bykea.com
+partner.bykea.com
+www.bykea.com
+www.customer.bykea.com
+www.webnew.bykea.com
+autodiscover.bykea.com
+demo.bykea.com
+ourweb.bykea.com
+cpcontacts.bykea.com
+webdisk.bykea.com
+www.demo.bykea.com
+bykea.com
+www.newbykea.bykea.com
+[[34mINF[0m] Found 25 subdomains for bykea.com in 6 seconds 955 milliseconds
+[*] Probing with HTTPx...
+Usage: httpx [OPTIONS] URL
+
+Error: No such option: -l
+[*] Pulling Wayback URLs...
